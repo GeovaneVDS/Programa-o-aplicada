@@ -14,3 +14,8 @@ Tudo referente a introdução das duas linguagens.
 Texto referente a comparação entre linguagens.
 
 3.Sintaxe do python e linguagem C
+
+## Aula 03: Linguagem C (parte2)
+
+aprendendo sobre a entrada e saida de dados primitivos na linguagem C
+https://replit.com/@GeovaneVDS/Labaxurias?v=1
